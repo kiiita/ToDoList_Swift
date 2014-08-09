@@ -9,4 +9,4 @@
 - Add new task
 - Delete tasks by swiping
 
-by kiiita
+by [https://twitter.com/kiiita](@kiiita)
