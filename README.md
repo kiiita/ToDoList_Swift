@@ -1,6 +1,12 @@
 ## To Do List written by Swift
-by kiiita
 
 ### Environment
 - Swift
 - Xcode6 beta4
+
+### Samally
+- Tabbed Application
+- Add new task
+- Delete tasks by swiping
+
+by kiiita
