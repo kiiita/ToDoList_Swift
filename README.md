@@ -9,4 +9,4 @@
 - Add new task
 - Delete tasks by swiping
 
-by [https://twitter.com/kiiita](@kiiita)
+by [@kiiita](https://twitter.com/kiiita), ffab0, ZIGExN Co., Ltd.
